@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="lib_xhdpi">8dp</dimen>
+    <dimen name="lib_hdpi">12dp</dimen>
+    <dimen name="lib_item_height">12dp</dimen>
+</resources>
