@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array2">
+        <item>纸板</item>
+        <item>纸箱</item>
+        <item>印版</item>
+        <item>刀模</item>
+    </string-array>
+</resources>

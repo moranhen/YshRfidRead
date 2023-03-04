@@ -1,0 +1,2 @@
+include ':uhfDemo'
+rootProject.name = "UHF_R"

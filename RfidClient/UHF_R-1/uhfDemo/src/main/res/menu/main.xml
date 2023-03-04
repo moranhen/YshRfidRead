@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+     >
+
+    <item
+        android:id="@+id/item_Temperature"
+        android:title="@string/temperaturem"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/item_UHFVersion"
+        app:showAsAction="never"
+        android:title="@string/firm"/>
+    <item
+        android:id="@+id/item_apiVersion"
+        app:showAsAction="never"
+        android:title="@string/api"/>
+<!--    <item-->
+<!--        android:id="@+id/item_appVersion"-->
+<!--        app:showAsAction="never"-->
+<!--        android:title="@string/app"/>-->
+
+</menu>
